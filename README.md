@@ -6,7 +6,7 @@ The last official runtime always contains lots of vulnerabilities and bugs fixes
 
 ## My solution
 
-Create a docker image based on the last slim avaiable, that I will check from times to times, and add aspnetcore runtime 2.2 onwards 
+Create a docker image based on the last slim avaiable, that I will check from times to times, and add aspnetcore runtime 2.2 onwards.
 
 Which means that when 4.x will be avaiable, I will update the last 4.x with 2.2 and 3.1 and so on.
 
