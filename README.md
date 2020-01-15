@@ -16,6 +16,8 @@ So, use the lastest tag from the docker, that you will have most recent version 
 
 Yes, so far the vulnebarilities scans on this image droped from 84 (8 criticals) from 2.2.1 slim to 22 (1 critical) from 3.1 slim.
 
+And saved 4 min execution time from github action compared to executing these same steps manually on your own dockerfile.
+
 ## Using:
 
 ```
