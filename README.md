@@ -21,3 +21,17 @@ Yes, so far the vulnebarilities scans on this image droped from 84 (8 criticals)
 ```
 FROM dotnetcore edgarrc/dotnetcore-deploy:latest as runtime
 ```
+
+## Last update
+
+### 2019 jan 01
+
+```
+# dotnet --list-runtimes
+Microsoft.AspNetCore.All 2.2.8 [/usr/share/dotnet/shared/Microsoft.AspNetCore.All]
+Microsoft.AspNetCore.App 2.2.8 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]
+Microsoft.AspNetCore.App 3.1.1 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]
+Microsoft.NETCore.App 2.2.8 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+Microsoft.NETCore.App 3.1.1 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+```
+
