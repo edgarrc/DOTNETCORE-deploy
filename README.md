@@ -12,7 +12,7 @@ Which means that when 4.x will be avaiable, I will update the last 4.x with 2.2 
 
 So, use the lastest tag from the docker, that you will have most recent version with backwards compatibility.
 
-## It worth it?
+## Doest it worth it?
 
 Yes, so far the vulnebarilities scans on this image droped from 84 (8 criticals) from 2.2.1 slim to 22 (1 critical) from 3.1 slim.
 
