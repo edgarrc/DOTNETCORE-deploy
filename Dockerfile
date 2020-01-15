@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/core/aspnet:3.1 AS runtime
+FROM mcr.microsoft.com/dotnet/core/aspnet:3.1.1-buster-slim AS runtime
 
 RUN apt-get update \
     && apt-get install -y \
