@@ -21,7 +21,7 @@ Yes, first, the vulnebarilities scans on this image droped a lot (not counting t
 | 2.2 slim   | 0        | 8    | 11     | 20  | 47            | 1          |
 | 3.1 slim   | 0        | 2    | 5      | 9   | 39            | 1          |
 
-(security scan repost from AWS ECR)
+(security scan report from AWS ECR)
 
 Second, it saved 5 minutes of execution time using github action and 2 minutes using the bitbucket pipeline, compared to executing these same steps manually on your own dockerfile.
 
