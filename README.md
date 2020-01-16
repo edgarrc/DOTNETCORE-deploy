@@ -2,7 +2,7 @@
 
 ## Why?
 
-The last official runtime always contains lots of vulnerabilities and bugs fixes (framework and SO) and, obiviously, the last runtime avaiable, but it doesn't contains previous dotnetcore runtimes.
+The last official runtime always contains lots of vulnerabilities and bugs fixes (framework and SO) and, obiviously, the last runtime available, but it doesn't contains previous dotnetcore runtimes.
 
 ## My solution
 
