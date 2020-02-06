@@ -33,7 +33,7 @@ FROM dotnetcore edgarrc/dotnetcore-deploy:latest as runtime
 
 ## Last update
 
-### 2019 jan 01
+### 2020 jan 01
 
 dotnet --list-runtimes
 
